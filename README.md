@@ -90,8 +90,3 @@ Order volume remained fairly consistent across months
 Seasonal spikes and dips indicate potential promotional opportunities
 
 
-
----
-
-Would you also like me to write the actual SQL file (sales_trend.sql) based on this README? Let me know and I’ll create it for you too.
-
